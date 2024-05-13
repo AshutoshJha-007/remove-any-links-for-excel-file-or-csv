@@ -15,6 +15,10 @@ Prepare your Excel file with text data containing links, hashtags, and mentions 
 Usage
 Excel Link Remover provides a simple interface for removing links, hashtags, and mentions from text data stored in an Excel file. You can use the provided scripts to preprocess your Excel file and generate cleaned data.
 
+python
+Copy code
+# Example usage code snippet
+python remove_links.py --input_file data/input.xlsx --output_file data/cleaned_output.xlsx
 Contributing
 Contributions to Excel Link Remover are welcome! You can contribute by adding new features, improving existing code, or fixing bugs. Please open a pull request with your changes and adhere to the project's coding standards and guidelines.
 
@@ -23,4 +27,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Credits
 Excel Link Remover was inspired by the need for efficient text preprocessing in data analysis and natural language processing tasks.
-credits for code :- ASHUTOSH KUMAR JHA
+OWNER ME:- [Ashutosh kumar jha].
